@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Giovanni Jamberso</h1>
+<h1 align="center">👋 Hi, I'm Giovanni</h1>
 <p align="center">
   Full Stack Developer in training | Cybersecurity Enthusiast
 </p>
