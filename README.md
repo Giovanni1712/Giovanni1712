@@ -52,7 +52,7 @@ What drives me is a genuine desire to **protect people** in an increasingly digi
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gjovanni-jamberso-gon%C3%A7alves-8435621b5)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/giovanni-jamberso-gon%C3%A7alves-8435621b5/)  
 - 📧 Email: gjamberso@gmail.com  
 
 ---
