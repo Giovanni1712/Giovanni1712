@@ -12,7 +12,7 @@
 - 💻 Experienced in JavaScript, SQL, and Python  
 - 🧠 Resilient, detail-oriented, and driven by solving complex problems  
 - 🤝 Looking to collaborate on cybersecurity-focused projects and grow with the community  
-- 📫 Reach me at gjamberso@gmail.com  
+- 📫 Reach me at  
 
 ---
 
